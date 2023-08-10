@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yigit-tuncel" alt="yigit-tuncel" /></a> </p>
 
+- 🌱 I’m currently learning **React,Js,C# & etc. Various frameworks, online courses, and more. Always keen to broaden my horizons!**
+
+- 💬 Ask me about **Js,React,C,C++,Frameworks,SQL & etc. I love discussing and sharing insights on these!**
+
 - 📫 How to reach me **yigit.tuncel.info@gmail.com**
+
+- ⚡ Fun fact **I like to think I have a good sense of humor! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigit-tuncel&show_icons=true&locale=en" alt="yigit-tuncel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yigit-tuncel&" alt="yigit-tuncel" /></p>
-
